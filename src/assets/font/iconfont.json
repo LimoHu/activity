@@ -1,0 +1,23 @@
+{
+  "id": "1488164",
+  "name": "f'ron't",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3739659",
+      "name": "动画",
+      "font_class": "donghua",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "4769823",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
